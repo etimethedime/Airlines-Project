@@ -4,5 +4,6 @@ public class blank {
         System.out.println("IF WORKS, TYPE YOUR NAME AS A STRING");
         System.out.println("COSMAS");
         System.out.println("EZRA");
+        System.out.println("MIKIYAS");
     }
 }
