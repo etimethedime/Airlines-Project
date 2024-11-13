@@ -7,7 +7,13 @@ public class FlightBooker {
     private ArrayList seatsBooked;
     private ArrayList accommodations;
 
-    public FlightBooker(){
+    public void FlightBooker(){
+
+    }
+    public void register(){
+
+    }
+    public void logIn(){
 
     }
 
